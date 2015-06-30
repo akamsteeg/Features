@@ -7,7 +7,14 @@ namespace Features
     /// <summary>
     /// 
     /// </summary>
-    public class Features
+    public abstract class Features
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        public static void Initialize()
+        {
+
+        }
     }
 }
