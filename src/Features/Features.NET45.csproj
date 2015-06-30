@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <BuildMode>v4.5</BuildMode>
+    <ProjectGuid>{682CEF1E-F582-4F05-A9DA-AA64F3A6F518}</ProjectGuid>
+    <TargetFrameworkVersionEx>v4.5</TargetFrameworkVersionEx>
+    <DefineConstantsEx>NET45</DefineConstantsEx>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <Import Project="Features.Base.csproj" />
+</Project>
