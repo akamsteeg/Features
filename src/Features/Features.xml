@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Features</name>
+    </assembly>
+    <members>
+        <member name="T:Features.Features">
+            <summary>
+            
+            </summary>
+        </member>
+    </members>
+</doc>
