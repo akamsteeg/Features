@@ -9,5 +9,5 @@
   <ItemGroup>
     <Reference Include="System" />
   </ItemGroup>
-  <Import Project="Features.csproj" />
+  <Import Project="Features.Base.csproj" />
 </Project>
