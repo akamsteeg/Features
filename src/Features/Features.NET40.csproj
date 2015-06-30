@@ -2,7 +2,7 @@
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <BuildMode>v4.0</BuildMode>
-    <ProjectGuid>{47516FC4-6BF7-4CB4-BC76-4AA56AB21A4E}</ProjectGuid>
+    <ProjectGuid>{837E678E-287B-4896-8331-DA594E755099}</ProjectGuid>
     <TargetFrameworkVersionEx>v4.0</TargetFrameworkVersionEx>
     <DefineConstantsEx>NET40</DefineConstantsEx>
   </PropertyGroup>

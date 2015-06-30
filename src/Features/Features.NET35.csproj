@@ -2,7 +2,7 @@
 <Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <BuildMode>v3.5</BuildMode>
-    <ProjectGuid>{4F90D16F-4F6D-4ADE-BBA7-0476E0359A3B}</ProjectGuid>
+    <ProjectGuid>{823AFDA4-2B42-4E5B-91D8-6B9A5F89B7A5}</ProjectGuid>
     <TargetFrameworkVersionEx>v3.5</TargetFrameworkVersionEx>
     <DefineConstantsEx>NET35</DefineConstantsEx>
   </PropertyGroup>
