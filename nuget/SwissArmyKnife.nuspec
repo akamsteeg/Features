@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Features</id>
+    <title>Features</title>
+    <version>1.0.0-dev</version>
+    <description>A Feature Toggles library</description>
+    <releaseNotes>-</releaseNotes>
+    
+    <tags>utility utitilies misc</tags>
+
+    <copyright>Copyright 2015 Alex Kamsteeg (https://atlex.nl)</copyright>
+    <authors>Alex Kamsteeg</authors>
+    <owners>Alex Kamsteeg</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    
+    <dependencies>
+    </dependencies>
+    
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <!-- .NET 2.0 -->
+    <file src="..\src\Features\bin\v2.0\$configuration$\Features.dll" target="lib\net20\" />
+    <file src="..\src\Features\bin\v2.0\$configuration$\Features.pdb" target="lib\net20\" />
+    <file src="..\src\Features\bin\v2.0\$configuration$\Features.xml" target="lib\net20\" />
+    <!-- .NET 3.5 -->
+    <file src="..\src\Features\bin\v3.5\$configuration$\Features.dll" target="lib\net35\" />
+    <file src="..\src\Features\bin\v3.5\$configuration$\Features.pdb" target="lib\net35\" />
+    <file src="..\src\Features\bin\v3.5\$configuration$\Features.xml" target="lib\net35\" />
+    <!-- .NET 4.0 -->
+    <file src="..\src\Features\bin\v4.0\$configuration$\Features.dll" target="lib\net40\" />
+    <file src="..\src\Features\bin\v4.0\$configuration$\Features.pdb" target="lib\net40\" />
+    <file src="..\src\Features\bin\v4.0\$configuration$\Features.xml" target="lib\net40\" />
+    <!-- .NET 4.5 -->
+    <file src="..\src\Features\bin\v4.5\$configuration$\Features.dll" target="lib\net45\" />
+    <file src="..\src\Features\bin\v4.5\$configuration$\Features.pdb" target="lib\net45\" />
+    <file src="..\src\Features\bin\v4.5\$configuration$\Features.xml" target="lib\net45\" />
+  </files>
+</package>
